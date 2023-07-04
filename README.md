@@ -9,3 +9,8 @@
 <a href="https://gabriela5rova.hashnode.dev">
   <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
+
+
+<a href="www.linkedin.com/in/gabriela-petrova-a1519478">
+  <img height="50" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
+</a>
