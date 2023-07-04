@@ -10,7 +10,7 @@
   <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"/>
 </a>
 
-<a href="www.linkedin.com/in/gabriela5rova">
+<a href="www.linkedin.com/gabriela5rova">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-1024.png"/>
 </a>
 <h2> 👾 &nbsp;A Little Bit About Me and My Interests</h2>
