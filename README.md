@@ -27,3 +27,10 @@ fields_of_interests:
 currently_learning: ["JAVA"]
 ```  
 ---  
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/gabriela5rova/gabriela5rova/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
