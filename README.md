@@ -12,5 +12,5 @@
 
 
 <a href="www.linkedin.com/in/gabriela-petrova-a1519478">
-  <img height="50" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
+  <img height="80" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
 </a>
