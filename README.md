@@ -23,8 +23,10 @@ fields_of_interests:
   [
     "JAVA",
     "Game Development",
+"ML",
+"Data Science"
   ]
-currently_learning: ["JAVA"]
+currently_learning: ["Data Science, Mathematics, ML"]
 ```  
 ---  
 <h2> 📈 &nbsp;My GitHub History!</h2>
