@@ -23,8 +23,8 @@ fields_of_interests:
   [
     "JAVA",
     "Game Development",
-"ML",
-"Data Science"
+    "ML",
+    "Data Science"
   ]
 currently_learning: ["Data Science, Mathematics, ML"]
 ```  
