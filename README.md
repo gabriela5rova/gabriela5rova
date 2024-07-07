@@ -26,7 +26,11 @@ fields_of_interests:
     "ML",
     "Data Science"
   ]
-currently_learning: ["Data Science, Mathematics, ML"]
+currently_learning:
+[
+     "Data Science",
+     "Mathematics",
+     "ML"]
 ```  
 ---  
 <h2> 📈 &nbsp;My GitHub History!</h2>
