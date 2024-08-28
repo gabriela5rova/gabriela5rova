@@ -18,7 +18,7 @@
 ```yaml
 name: Gabriela
 located_in: Bulgaria
-current_job: Power Apps Developer
+current_job: Senior Power Platform Developer with focus on data and PowerBI
 fields_of_interests:
   [
     "JAVA",
