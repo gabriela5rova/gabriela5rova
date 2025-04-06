@@ -18,19 +18,16 @@
 ```yaml
 name: Gabriela
 located_in: Bulgaria
-current_job: Senior Power Platform Developer with focus on data and PowerBI
+current_job: Senior Developer with focus on Data, ML 
 fields_of_interests:
   [
-    "JAVA",
-    "Game Development",
     "ML",
-    "Data Science"
+    "Data Science",
+    "Statistics",
+    "Math",
+    "Econometrics"
   ]
-currently_learning:
-[
-     "Data Science",
-     "Mathematics",
-     "ML"]
+
 ```  
 ---  
 <h2> 📈 &nbsp;My GitHub History!</h2>
